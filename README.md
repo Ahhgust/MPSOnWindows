@@ -1,4 +1,4 @@
-##MPS/NGS tools on windoze
+## MPS/NGS tools on windoze
 
 These tools have been compiled in the msys2 environment.
 Likely they will require msys2 to be installed!
