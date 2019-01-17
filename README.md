@@ -17,5 +17,5 @@ In particular, the following are available:
 - bwa [http://bio-bwa.sourceforge.net/]
 - tabix [https://github.com/samtools/tabix]
 - bcftools [http://www.htslib.org/doc/bcftools-1.0.html]
-
+- seqtools [https://github.com/walaj/SeqLib] (note that the SeqLib library also appears to work just fine on Windows as well.
 
