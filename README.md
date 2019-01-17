@@ -1,6 +1,7 @@
 ## MPS/NGS tools on windoze
 
-These tools have been compiled in the msys2 environment.
+These tools have been compiled in the msys2 environment
+on a Windows 7 machine (64-bit).
 Likely they will require msys2 to be installed!
 
 For your convenience I've also added various dlls from the msys2 environment
