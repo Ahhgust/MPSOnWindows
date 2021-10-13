@@ -2,7 +2,7 @@
 
 These tools have been compiled in the msys2 environment
 on a Windows 7 machine (64-bit). <br>
-bcftools_static.exe has been recompiled on a Windows 10 machine and ostensibly it needs to msys2 dlls...
+bcftools_static.exe has been recompiled on a Windows 10 machine and ostensibly it does NOT need any msys2 dlls...
 
 For your convenience I've also added various dlls from the msys2 environment
 (specifically, dlls that are required by these programs). Portability needs to
